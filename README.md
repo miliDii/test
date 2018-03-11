@@ -5,4 +5,6 @@ delete file
 add program
 /gitBash
 add new line
+resolve the problem
+
 
